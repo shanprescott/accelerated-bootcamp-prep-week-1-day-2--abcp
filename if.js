@@ -5,4 +5,6 @@ if (pokemon == "Pikachu") {
 }
 
 
+var num 
 
+if (num )
