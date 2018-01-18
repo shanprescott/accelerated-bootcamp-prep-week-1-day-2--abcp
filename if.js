@@ -7,4 +7,6 @@ if (pokemon == "Pikachu") {
 
 var num 
 
-if (num )
+if (num ==10) {
+  console.log("")
+}
