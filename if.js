@@ -5,10 +5,10 @@ if (pokemon == "Pikachu") {
 }
 
 
-var num 
+var num = 12
 
-if (num == 10) {
-  console.log("Congrats!")
+if (num > 10) {
+ return num
 } 
 else {
   console.log("incorrect")
