@@ -7,7 +7,7 @@ if (pokemon == "Pikachu") {
 
 var num = 12
 
-if (num > 10) {
+if (num === 10) {
  return num
 } 
 else {
