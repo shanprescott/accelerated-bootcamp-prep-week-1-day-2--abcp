@@ -5,7 +5,7 @@ if (pokemon == "Pikachu") {
 }
 
 
-var num = 12
+function greaterThanTen(num)
 
 if (num === 10) {
  return num
